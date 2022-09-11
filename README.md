@@ -1,2 +1,8 @@
-# storymoji
-Tell Stories with Emoji
+# Storymoji - Storytelling with Emoji
+
+## 👩🏽‍🚀 A Hero
+
+## ☄️ Has a Problem
+
+## Meets a Guide 
+
